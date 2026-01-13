@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+1,Laptop HP,Electrónica,323.32
+2,Mouse Inalámbrico,Electrónica,22.26
+3,Teclado Mecánico,Electrónica,144.76
+4,"Monitor 24""",Electrónica,119.37
+5,Auriculares Bluetooth,Electrónica,370.87
+6,Webcam HD,Electrónica,341.58
+7,Tablet Android,Electrónica,447.17
+8,Cargador USB-C,Electrónica,52.6
+9,Hub USB,Electrónica,216.74
+10,Mousepad Gaming,Electrónica,24.6
+11,Camiseta Deportiva,Ropa,117.13
+12,Jeans Clásicos,Ropa,257.62
+13,Zapatillas Running,Ropa,23.0
+14,Chaqueta Invierno,Ropa,107.43
+15,Vestido Casual,Ropa,328.44
+16,Pantalón Formal,Ropa,277.02
+17,Sudadera con Capucha,Ropa,118.02
+18,Zapatos Formales,Ropa,298.74
+19,Shorts Deportivos,Ropa,406.62
+20,Camisa de Vestir,Ropa,13.18
+21,Lámpara LED,Hogar,404.85
+22,Cojines Decorativos,Hogar,352.09
+23,Juego de Sábanas,Hogar,176.72
+24,Organizador Cocina,Hogar,86.18
+25,Espejo de Pared,Hogar,479.03
+26,Alfombra Moderna,Hogar,174.93
+27,Set de Toallas,Hogar,55.45
+28,Reloj de Pared,Hogar,57.39
+29,Cortinas Blackout,Hogar,425.27
+30,Macetas Decorativas,Hogar,305.83
+31,Mancuernas 5kg,Deportes,405.49
+32,Colchoneta Yoga,Deportes,367.57
+33,Botella Térmica,Deportes,272.75
+34,Cuerda Saltar,Deportes,486.83
+35,Pelota Fitness,Deportes,195.48
+36,Banda Elástica,Deportes,280.5
+37,Guantes Gimnasio,Deportes,416.41
+38,Bicicleta Estática,Deportes,313.07
+39,Pesas Ajustables,Deportes,432.24
+40,Kit Yoga Completo,Deportes,292.9
+41,Python para Todos,Libros,355.24
+42,El Arte de la Guerra,Libros,32.45
+43,Sapiens,Libros,121.67
+44,Inteligencia Artificial,Libros,151.8
+45,Cien Años Soledad,Libros,49.1
+46,Data Science Handbook,Libros,124.07
+47,1984,Libros,59.49
+48,Deep Learning,Libros,146.21
+49,Clean Code,Libros,321.49
+50,El Principito,Libros,188.77
