@@ -4999,3 +4999,5 @@ user_id,product_id,product_name,category,rating,purchase_count,price,total_spent
 387,21,Lámpara LED,Hogar,5,2,404.85,809.7,2025-12-10
 243,28,Reloj de Pared,Hogar,5,1,57.39,57.39,2025-11-11
 227,35,Pelota Fitness,Deportes,5,1,195.48,195.48,2025-12-22
+5,5,Auriculares Bluetooth,Electrónica,5,1,370.87,370.87,2026-01-15
+5,43,Sapiens,Libros,5,2,121.67,243.34,2026-01-15
